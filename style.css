@@ -12,7 +12,11 @@ body {
 }
 
 #showcase{
-  positiom:relative;
+  position:relative;
+}
+
+.showCaseContainer{
+position:relative;
 }
 
 /* general styles */
