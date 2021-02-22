@@ -8,8 +8,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   overflow-x: hidden;
   position: relative;
-  touch-action: none;
-  --ms-touch-action: none;
+  touch-action: pan-y;
+  --ms-touch-action: pan-y;
 }
 
 #showcase{
