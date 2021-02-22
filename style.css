@@ -12,6 +12,10 @@ body {
   --ms-touch-action: none;
 }
 
+#showcase{
+  positiom:relative;
+}
+
 /* general styles */
 h1.text-lg {
   font-size: 3rem;
