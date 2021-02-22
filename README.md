@@ -4,4 +4,4 @@ It is 2020 version of NetFlix.
 
 # Output : 
 
-![](Netflix.png)
+![](Netlfix.png)
